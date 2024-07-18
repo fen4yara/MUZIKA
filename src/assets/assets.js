@@ -118,7 +118,7 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Enina - Кончил",
+        name: "Shaman - Я русский",
         image: img1,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
@@ -126,7 +126,7 @@ export const songsData = [
     },
     {
         id:1,
-        name: "Milokhin - Лапки",
+        name: "Цой - Кукушка",
         image: img2,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
@@ -134,7 +134,7 @@ export const songsData = [
     },
     {
         id:2,
-        name: "Молодй - ПОДАРОК",
+        name: "Toxi$ - I GOT U",
         image: img3,
         file:song3,
         desc:"Put a smile on your face with these happy tunes",
@@ -142,7 +142,7 @@ export const songsData = [
     },
     {
         id:3,
-        name: "Toxi$ - HURTZ",
+        name: "Бетховен - Симфония №5",
         image: img4,
         file:song4,
         desc:"Put a smile on your face with these happy tunes",
